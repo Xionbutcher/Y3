@@ -1,0 +1,7 @@
+{
+    "New trigger.json": 0, 
+    "UI.folder": 1, 
+    "怪物生成.json": 2, 
+    "闪电链伤害buff.json": 4, 
+    "闪电链冷却buff.json": 3
+}

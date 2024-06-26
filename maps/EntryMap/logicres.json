@@ -1,0 +1,80 @@
+{
+    "1024": {}, 
+    "2048": {
+        "10000": {
+            "color": null, 
+            "height": {
+                "__tuple__": true, 
+                "items": [
+                    17, 
+                    2682059735
+                ]
+            }, 
+            "id": 10000, 
+            "name": "\u77e9\u5f62\u533a\u57df", 
+            "placed_lock": false, 
+            "placed_visibility": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    [
+                        -13, 
+                        1619396795
+                    ], 
+                    [
+                        -1, 
+                        4294965248
+                    ], 
+                    [
+                        -6, 
+                        2326364160
+                    ]
+                ]
+            }, 
+            "sound": null, 
+            "type": 2048, 
+            "weather": 0, 
+            "width": {
+                "__tuple__": true, 
+                "items": [
+                    15, 
+                    2232282877
+                ]
+            }
+        }
+    }, 
+    "4096": {}, 
+    "8192": {}, 
+    "32768": {
+        "9999": {
+            "camera_dist": 25.999998481720425, 
+            "far": 1000.0, 
+            "focus_max_dist": 400.0, 
+            "focus_min_dist": 10.0, 
+            "focus_x": 2.0684010982513428, 
+            "focus_y": 0.0, 
+            "focus_z": 4.946793556213379, 
+            "fov": 35.0, 
+            "fov_disabled": true, 
+            "id": 9999, 
+            "is_origin_cam": true, 
+            "is_ortho": false, 
+            "name": "\u521d\u59cb\u955c\u5934", 
+            "ortho_scale": 1, 
+            "pitch": 0.9773843729954548, 
+            "placed_lock": false, 
+            "placed_visibility": false, 
+            "roll": 0.0, 
+            "set_camera_conf_realtime": null, 
+            "type": 32768, 
+            "yaw": 6.283185307179586
+        }
+    }, 
+    "65536": {}, 
+    "131072": {}, 
+    "262144": {}, 
+    "1048576": {}, 
+    "2097152": {}, 
+    "4194304": {}, 
+    "134217728": {}
+}

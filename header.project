@@ -1,0 +1,17 @@
+{
+    "create_stamp": "202306120000", 
+    "editor_stamp": "202306120000", 
+    "encrypt_sections": [
+        "archive_data", 
+        "global_archive_data", 
+        "archive_table_data"
+    ], 
+    "entry_map": {
+        "id": 110354168266890134716735380346950333046, 
+        "name": "EntryMap"
+    }, 
+    "phy_mode": "2.5d", 
+    "project_id": 109039772813094001814270339097101283958, 
+    "project_name": "\u6280\u80fd\u7ec3\u4e60", 
+    "version": 7
+}
