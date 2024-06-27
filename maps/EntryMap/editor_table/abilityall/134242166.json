@@ -105,7 +105,7 @@
     "cold_down_time": {
         "__tuple__": true, 
         "items": [
-            "15.0"
+            "0.0"
         ]
     }, 
     "collection_animation": "", 
@@ -135,6 +135,7 @@
         "items": []
     }, 
     "filter_condition_camp": 5, 
+    "filter_condition_move_channel_type": 99, 
     "filter_condition_type": 5, 
     "filter_item_tags": {
         "__tuple__": true, 
@@ -216,30 +217,27 @@
             "show_in_attr": true, 
             "sort": 1, 
             "type": 24, 
-            "value": {
-                "__tuple__": true, 
-                "items": [
-                    "lambda unit:  Fix32(unit.cold_down_time)", 
+            "value": [
+                "lambda unit:  Fix32(unit.cold_down_time)", 
+                [
                     [
-                        [
-                            "cold_down_time"
-                        ]
-                    ], 
-                    "lambda unit:  Fix32(unit.cold_down_time)", 
-                    {
-                        "ability.cur_ability.cold_down_time": {
-                            "is_cm": false
-                        }
-                    }, 
+                        "cold_down_time"
+                    ]
+                ], 
+                "lambda unit:  Fix32(unit.cold_down_time)", 
+                {
+                    "ability.cur_ability.cold_down_time": {
+                        "is_cm": false
+                    }
+                }, 
+                [
                     [
-                        [
-                            "ability", 
-                            "cur_ability", 
-                            "cold_down_time"
-                        ]
+                        "ability", 
+                        "cur_ability", 
+                        "cold_down_time"
                     ]
                 ]
-            }
+            ]
         }
     }, 
     "magicbook_list": {

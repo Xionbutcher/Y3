@@ -612,5 +612,31 @@
     "p_trigger_id": null, 
     "trigger_id": 81530935, 
     "trigger_name": "怪物生成", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "INTEGER": {
+                "i": 0, 
+                "key": 0
+            }, 
+            "NEW_TIMER": {
+                "monstertime": -1
+            }, 
+            "UNIT_NAME": {
+                "怪物集合": 0
+            }
+        }, 
+        {
+            "i": 0, 
+            "key": 0, 
+            "monstertime": 0, 
+            "怪物集合": 10
+        }, 
+        [
+            "i", 
+            "key", 
+            "monstertime", 
+            "怪物集合"
+        ]
+    ]
 }

@@ -247,5 +247,19 @@
     "p_trigger_id": null, 
     "trigger_id": 1637097528, 
     "trigger_name": "闪电链冷却buff", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "FLOAT": {}, 
+            "INTEGER": {
+                "i": 0
+            }
+        }, 
+        {
+            "i": 0
+        }, 
+        [
+            "i"
+        ]
+    ]
 }

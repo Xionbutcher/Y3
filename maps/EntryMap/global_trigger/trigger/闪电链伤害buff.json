@@ -327,5 +327,19 @@
     "p_trigger_id": null, 
     "trigger_id": 1598980153, 
     "trigger_name": "闪电链伤害buff", 
-    "valid": true
+    "valid": true, 
+    "var_data": [
+        {
+            "FLOAT": {
+                "衰减系数": 0.0
+            }, 
+            "INTEGER": {}
+        }, 
+        {
+            "衰减系数": 0
+        }, 
+        [
+            "衰减系数"
+        ]
+    ]
 }

@@ -63,7 +63,12 @@
             "p_trigger_id": null, 
             "trigger_id": 679227395, 
             "trigger_name": "AbilityEnds", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "813318145": {
             "action": [
@@ -187,7 +192,12 @@
             "p_trigger_id": null, 
             "trigger_id": 813318145, 
             "trigger_name": "AbilityPercastStarts", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }, 
         "1568333826": {
             "action": [
@@ -313,7 +323,12 @@
             "p_trigger_id": null, 
             "trigger_id": 1568333826, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
         }
     }, 
     "trigger_group_info": [
